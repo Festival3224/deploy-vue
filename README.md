@@ -26,7 +26,7 @@ Next, we have to run all of these command:
  git push -u origin main
 ```
 
- after puph we can see our repo in GitHub
+ After last command (push) we can see our repo in GitHub.
 
  ### Let's Start Deploying!
 
@@ -63,7 +63,7 @@ git push using:  origin gh-pages
 mambo-jumbo -> gh-pages
 ```
 
-this step created gh-pages, a subtree of our master branch
+this step created gh-pages, a subtree of our master branch. Next, in GitHub Settings, Pages , Build and Deployment set branch gh-pages, press Save button. In few minutes project will be deploed!
  
  
  
