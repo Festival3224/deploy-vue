@@ -5,13 +5,16 @@ In terms of Vue it means once we build our Vue project, we can serve that static
 
 ### First step: create our project repo
 
-in GitHub create a new repository whith name 'deploy-vue'
+in GitHub create a new repository whith name 'deploy-vue'.
 
-next,in Terminal go to folder project and initialized empty Git repository
+
+Next,in Terminal go to folder project and initialized empty Git repository
  ```sh
  git init
 ```
+Next, we have do run all of these command:
 
+```sh
  git add .
  
  git commit -m "first commit"
@@ -21,6 +24,7 @@ next,in Terminal go to folder project and initialized empty Git repository
  git remote add origin https://github.com/Festival3224/deploy-vue.git
  
  git push -u origin main
+```
 
  after puph we can see our repo in GitHub
 
