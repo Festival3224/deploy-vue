@@ -12,7 +12,7 @@ Next,in Terminal go to folder project and initialized empty Git repository
  ```sh
  git init
 ```
-Next, we have do run all of these command:
+Next, we have to run all of these command:
 
 ```sh
  git add .
