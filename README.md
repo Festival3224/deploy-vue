@@ -30,7 +30,7 @@ Next, we have to run all of these command:
 
  ### Let's Start Deploying!
 
-I'm going to deploy to https://USER_NAME.github.io/REPO_NAME/. So, I have to change my Vite config! Set base to '/REPO_NAME/' in vite.config.js file:
+I'm going to deploy to https://my_github_name.github.io/REPO_NAME/. So, I have to change my Vite config! Set base to '/REPO_NAME/' in vite.config.js file:
 
 ```sh
  base: 'deploy-vue',
